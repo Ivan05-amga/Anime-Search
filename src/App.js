@@ -3,7 +3,6 @@ import { useState, useEffect } from "react";
 import AnimeCard from "./components/AnimeCard";
 
 const animeAPI = "https://api.jikan.moe/v3/top/anime/1/bypopularity";
-const animeSeacrh = "https://api.jikan.moe/v3/search/anime?q=";
 
 export default function App() {
   const fetchAnime = async () => {};
