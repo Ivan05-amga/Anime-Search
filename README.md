@@ -2,5 +2,5 @@
 
 Simple anime catologue site. 
 
-###Netlify link
+### Netlify link
 https://animesearch2.netlify.app/
